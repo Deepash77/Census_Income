@@ -177,20 +177,20 @@ The methodology can be adapted for:
 
 ## 📁 Project Structure
 
-```text
 census-income-prediction/
 │
-├── data/
-│   └── census-income.csv
+├── census_Income.ipynb
 │
-├── notebooks/
-│   └── Census_Income_Analysis.ipynb
+├── README.md
+|
+├── data.zip/
+    ├── census_income.csv
 │
-├── images/
+├── images.zip/
 │   ├── income_distribution.png
 │   ├── correlation_heatmap.png
 │   ├── model_comparison.png
 │   └── confusion_matrix.png
 │
 ├── requirements.txt
-└── README.md
+
