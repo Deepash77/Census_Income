@@ -225,4 +225,4 @@ I am looking to build my career in **Data Science / Machine Learning**, particul
 ### 📫 Connect With Me
 
 📧 Email: deepashchaudhary2305@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/deepash-chaudhary-374901274)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/deepash-chaudhary-374901274](https://www.linkedin.com/in/deepash-chaudhary-374901274/))  
