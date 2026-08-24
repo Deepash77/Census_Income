@@ -51,11 +51,6 @@ The dataset contains features such as:
 - Native Country
 - Income
 
-Dataset Source:
-
-UCI Machine Learning Repository  
-https://archive.ics.uci.edu/ml/datasets/census+income
-
 ---
 
 ## 🔍 Exploratory Data Analysis
