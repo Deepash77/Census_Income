@@ -177,20 +177,53 @@ The methodology can be adapted for:
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 census-income-prediction/
 │
 ├── census_Income.ipynb
-│
 ├── README.md
-|
-├── data.zip/
-    ├── census_income.csv
-│
-├── images.zip/
-│   ├── income_distribution.png
-│   ├── correlation_heatmap.png
-│   ├── model_comparison.png
-│   └── confusion_matrix.png
-│
 ├── requirements.txt
+├── data/
+│   └── census_income.csv
+└── images/
+    ├── income_distribution.png
+    ├── correlation_heatmap.png
+    ├── model_comparison.png
+    └── confusion_matrix.png
+```
+## 👨‍💻 About Me
 
+Hi, I'm **Deepash Chaudhary**, an aspiring **Data Scientist** with a strong interest in **Machine Learning, Data Analytics, and FinTech**.
+
+I enjoy working with real-world datasets, building predictive models, performing exploratory data analysis, and converting data into meaningful business insights.
+
+### 🔹 Interests
+
+- Data Science & Machine Learning
+- FinTech & Financial Analytics
+- Risk Analytics
+- Predictive Modeling
+- Customer Analytics
+- SQL & Data Analysis
+
+### 🔧 Technical Skills
+
+**Languages:** Python, C++, SQL
+
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Machine Learning:** Scikit-learn, Classification, Regression, Ensemble Learning, Model Evaluation
+
+**Tools:** Jupyter Notebook, Git, GitHub
+
+### 🎯 Career Goal
+
+I am looking to build my career in **Data Science / Machine Learning**, particularly in the **FinTech and financial services industry**, where data-driven solutions can be used to solve real-world business and financial problems.
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/deepash-chaudhary-374901274)
+
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:deepashchaudhary2305@gmail.com)
